@@ -59,6 +59,8 @@
 
 ### <span style="color:#0D47A1;">1.2  BICEP Framework for Edge Cases</span>
 
+*Right-BICEP mnemonic from **Pragmatic Unit Testing in Java 8 with JUnit** by Jeff Langr, Andy Hunt & Dave Thomas (The Pragmatic Programmers, 2015)*
+
 <table style="width:100%; border-collapse:collapse;">
 <tr><td style="background:#00695C; color:white; padding:10px 12px; border:1px solid #80CBC4; font-weight:bold;">BICEP</td><td style="background:#00695C; color:white; padding:10px 12px; border:1px solid #80CBC4; font-weight:bold;">Example Tests for React Component Library</td></tr>
 <tr><td style="background:#E0F2F1; padding:10px 12px; border:1px solid #CCC;"><strong>Boundary</strong></td><td style="background:#E0F2F1; padding:10px 12px; border:1px solid #CCC;">Input at max length, min length 0, exactly at validation thresholds</td></tr>
