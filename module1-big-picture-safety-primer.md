@@ -148,7 +148,7 @@ This gives us a practical spectrum that every React developer needs to understan
 ### <span style="color:#0D47A1;">1.3  Why This Matters Now</span>
 
 - GitHub reported that Copilot users complete coding tasks up to 55% faster, with measurable gains in React component scaffolding and test writing
-- By 2025, over 77% of Fortune 500 companies had adopted GitHub Copilot across their engineering teams
+- 90% of the Fortune 100 use GitHub Copilot, with over 26 million users globally — including AMD, Cisco, Target, Twilio, and Siemens (Microsoft AI in Action, 2026)
 - GitHub Copilot Workspace launched in 2025 with full issue-to-PR automation, letting React developers go from a GitHub issue directly to a working branch with proposed changes
 - Major React-based product teams began embedding Copilot Agent mode into their daily sprint workflows in early 2026, automating recurring patterns like form validation, routing, and API integration
 

@@ -2,6 +2,8 @@
 
 A two-day intensive course teaching React developers how to use GitHub Copilot effectively and safely in professional workflows. The course progresses from prompting fundamentals to Agent mode, CI/CD automation, and production-ready feature sprints across 15 modules and 3 hands-on labs.
 
+> 90% of the Fortune 100 use GitHub Copilot, with over 26 million users globally — including AMD, Cisco, Target, Twilio, and Siemens. — [Microsoft AI in Action](https://news.microsoft.com/ai-in-action/), 2026
+
 ---
 
 ## Prerequisites
