@@ -202,7 +202,7 @@ Find the logic error — do not change the function signature."
 #file:src/utils/validators.ts."
 ```
 
-<table style="width:100%; border-collapse:collapse;"><tr><td style="background:#F3E5F5; padding:14px 18px; border:1px solid #CE93D8;"><strong style="color:#6A1B9A;">🎯 INSTRUCTOR NOTE</strong><br><em style="color:#6A1B9A;">Live demo: Introduce a bug into the Lab 1 project (change <code>&gt;</code> to <code>&gt;=</code> in a validator boundary check). Run <code>npm test</code>, show the failure. Share the Jest output in Copilot Chat with <code>#terminalLastCommand</code>. Watch Copilot locate the line, explain the off-by-one, fix it. Run tests to confirm. Most impactful demo in the module.</em></td></tr></table>
+
 
 ---
 
@@ -254,7 +254,6 @@ git diff
 
 Module 8 (AI-Driven Quality Assurance) takes testing to the next level — coverage prompts, edge case generation, fixtures/mocks, flaky test triage, and property-based testing. Builds directly on the refactor-test-commit cycle you practiced here.
 
-<table style="width:100%; border-collapse:collapse;"><tr><td style="background:#F3E5F5; padding:14px 18px; border:1px solid #CE93D8;"><strong style="color:#6A1B9A;">🎯 INSTRUCTOR NOTE</strong><br><em style="color:#6A1B9A;">Ask: "What's the most important thing to do BEFORE starting any refactoring?" Answer: commit to git. If someone says "run your tests first" — also correct. Green tests + baseline commit = the full safety net. Emphasize both.</em></td></tr></table>
 
 ---
 
